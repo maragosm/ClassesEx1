@@ -1,0 +1,14 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\obj\Debug\netcoreapp3.1\Classes ex1.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\obj\Debug\netcoreapp3.1\Classes ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\obj\Debug\netcoreapp3.1\Classes ex1.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\obj\Debug\netcoreapp3.1\Classes ex1.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\obj\Debug\netcoreapp3.1\Classes ex1.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\bin\Debug\netcoreapp3.1\Classes ex1.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\bin\Debug\netcoreapp3.1\Classes ex1.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\bin\Debug\netcoreapp3.1\Classes ex1.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\bin\Debug\netcoreapp3.1\Classes ex1.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\bin\Debug\netcoreapp3.1\Classes ex1.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\bin\Debug\netcoreapp3.1\Classes ex1.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\obj\Debug\netcoreapp3.1\Classes ex1.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\obj\Debug\netcoreapp3.1\Classes ex1.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Classes ex1\obj\Debug\netcoreapp3.1\Classes ex1.genruntimeconfig.cache
